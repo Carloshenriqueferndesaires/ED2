@@ -1,0 +1,11 @@
+jogo de luta:
+ caracter 1: Ryu
+ caracter 2: Ken
+ caracter 3: Chun-Li
+ caracter 4: Guile
+ caracter 5: Blanka
+ primeiro round: Ryu vs Ken
+ segundo round: Chun-Li vs Guile
+ terceiro round: Blanka vs Ryu
+ quarto round: Ken vs Chun-Li
+ quinto round: Guile vs Blanka
