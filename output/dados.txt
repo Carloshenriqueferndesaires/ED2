@@ -1,3 +1,1 @@
-Ola! 
-Escrevendo os meus dados aqui dentro do arquivo. 
- meu nome é carlos e estou aprendendo a programar em c. 
+Ola! Escrevendo os meus dados aqui dentro do arquivo.
